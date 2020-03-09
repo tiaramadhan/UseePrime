@@ -2,4 +2,5 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
-https://cdnbdsa1.useetv.com/joss/15/useeprime/chunklist_w544363632_b894100_sleng.m3u8?enc=6kH89SFRAHs30ljcRgEsyA&exp=1581103806
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1280000
+https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1583449645~exp=9007200838190636~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=abbdc7623c8405c97cb6fddc22276ab83c503861f83f1b8553865ac0c53fe90f&hdnts=st=1583449649~exp=1583449769~acl=/*~id=1331077e-9801-4001-9f4a-e0868c3a6827~data=180.247.83.138~hmac=0830d4d9deb18f4f3b863b89645c18c51351d8f731aa9541cd06525579afef1c
